@@ -1,0 +1,13 @@
+{
+  "build path": "",
+  "name": "Hello_World",
+  "plugins": [
+    "cRevGeneral",
+    "cREVGeometryCache",
+    "cRevStandaloneSettings",
+    "dataviewProps",
+    "dgProps",
+    "GLX2"
+  ],
+  "resource paths": ""
+}
