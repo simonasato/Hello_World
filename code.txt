@@ -1,0 +1,24 @@
+#### Main Stack: HelloWorld ####
+
+#### Card: card id 1002 ####
+
+--> all handlers
+
+on openCard
+    pass openCard
+end openCard
+
+
+
+
+#### Button: Hello ####
+
+--> all handlers
+
+on mouseUp
+   answer "Hello World"
+end mouseUp
+
+
+
+
