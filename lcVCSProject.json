@@ -9,5 +9,8 @@
     "dgProps",
     "GLX2"
   ],
-  "resource paths": ""
+  "resource paths": "",
+  "stackFiles": [
+    "HelloWorld.livecode"
+  ]
 }

@@ -1,0 +1,3 @@
+on mouseUp
+  set the iconGravity of button 1 to "center"
+end mouseUp
