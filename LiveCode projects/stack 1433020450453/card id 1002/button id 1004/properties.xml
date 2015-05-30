@@ -1,0 +1,73 @@
+<button name="Hello" id="1004">
+<traversalOn>false</traversalOn>
+<ink>srcCopy</ink>
+<threeD>false</threeD>
+<blendLevel>0</blendLevel>
+<rect>152,136,233,217</rect>
+<armFill>false</armFill>
+<visitedIcon>0</visitedIcon>
+<showIcon>true</showIcon>
+<showName>true</showName>
+<shadow>false</shadow>
+<sharedHilite>true</sharedHilite>
+<textAlign>center</textAlign>
+<armed>false</armed>
+<menuMouseButton>1</menuMouseButton>
+<id>1004</id>
+<labelWidth>0</labelWidth>
+<showHilite>false</showHilite>
+<autoHilite>true</autoHilite>
+<style>transparent</style>
+<icon>6000</icon>
+<name>button "Hello"</name>
+<borderWidth>2</borderWidth>
+<margins>4</margins>
+<opaque>false</opaque>
+<hiliteFill>true</hiliteFill>
+<disabled>false</disabled>
+<autoArm>false</autoArm>
+<family>0</family>
+<menuHistory>1</menuHistory>
+<showFocusBorder>true</showFocusBorder>
+<hiliteBorder>false</hiliteBorder>
+<mnemonic>0</mnemonic>
+<hilited>false</hilited>
+<altId>0</altId>
+<armedIcon>0</armedIcon>
+<lockLoc>false</lockLoc>
+<disabledIcon>0</disabledIcon>
+<titleWidth>0</titleWidth>
+<armBorder>true</armBorder>
+<iconGravity>center</iconGravity>
+<layer>1</layer>
+<cantSelect>false</cantSelect>
+<visible>true</visible>
+<menuLines>5</menuLines>
+<default>false</default>
+<shadowOffset>4</shadowOffset>
+<showBorder>false</showBorder>
+<hiliteIcon>0</hiliteIcon>
+<layerMode>static</layerMode>
+<hoverIcon>0</hoverIcon>
+<custompropertyset name= "uVersion">
+<ID>1004</ID>
+<UUID>8e5e934c-f393-43c2-a1a8-9f6f1dc255d6</UUID>
+</custompropertyset>
+<custompropertyset name= "cGlx2TimeStamp">
+<checksum>base64decode( "Y/ttzv1z/OpgtC2HJR34Mg==" )</checksum>
+</custompropertyset>
+<custompropertyset name= "cGLX2General">
+<cHscrollScript>0</cHscrollScript>
+<cHscrollHandlers>0</cHscrollHandlers>
+<cSelectedChunk>char 54 to 153</cSelectedChunk>
+<cHTMLScript>base64decode( "H4sI" )</cHTMLScript>
+<cHandlersListWidth>100</cHandlersListWidth>
+<cHtmlHandlers>base64decode( "H4sI" )</cHtmlHandlers>
+<cDirtyFlag>false</cDirtyFlag>
+<cFolders>all handlers</cFolders>
+<cHandlers>mouseUp</cHandlers>
+<cVscrollScript>0</cVscrollScript>
+<cVscrollHandlers>0</cVscrollHandlers>
+<cHilitedLine>2</cHilitedLine>
+</custompropertyset>
+</button>

@@ -1,0 +1,9 @@
+--> all handlers
+
+on mouseUp
+   answer "Hello World"
+end mouseUp
+
+
+   --put "Hello"
+

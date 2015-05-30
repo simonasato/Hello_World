@@ -1,0 +1,8 @@
+--> all handlers
+
+on openCard
+    pass openCard
+end openCard
+on closeCard
+   pass closeCard
+end closeCard

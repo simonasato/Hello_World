@@ -1,0 +1,53 @@
+<stack name="HelloWorld" id="6003">
+<windowManagerPlace>false</windowManagerPlace>
+<fullscreen>false</fullscreen>
+<blendLevel>0</blendLevel>
+<rect>1746,181,2146,581</rect>
+<maxWidth>65535</maxWidth>
+<cantAbort>false</cantAbort>
+<fileName>C:/Users/Simon/Documents/GitHub/Hello_World/HelloWorld.livecode</fileName>
+<decorations>title,menu,minimize,maximize,close</decorations>
+<iconic>false</iconic>
+<shadow>true</shadow>
+<cantDelete>false</cantDelete>
+<id>6003</id>
+<altId>0</altId>
+<hcAddressing>false</hcAddressing>
+<startUpIconic>false</startUpIconic>
+<windowShape>0</windowShape>
+<editMenus>false</editMenus>
+<cantModify>false</cantModify>
+<maxHeight>65535</maxHeight>
+<style>toplevel</style>
+<destroyWindow>true</destroyWindow>
+<liveResizing>true</liveResizing>
+<resizable>true</resizable>
+<name>stack "HelloWorld"</name>
+<icon>0</icon>
+<formatForPrinting>false</formatForPrinting>
+<alwaysBuffer>false</alwaysBuffer>
+<visible>true</visible>
+<scalefactor>1</scalefactor>
+<metal>false</metal>
+<minWidth>32</minWidth>
+<systemWindow>false</systemWindow>
+<shadowOffset>4</shadowOffset>
+<destroyStack>true</destroyStack>
+<minHeight>32</minHeight>
+<dynamicPaths>false</dynamicPaths>
+<custompropertyset name= "uRIP">
+<glx2VersionControl>1433020450453</glx2VersionControl>
+</custompropertyset>
+<custompropertyset name= "uVersion">
+<ID>6003</ID>
+<UUID>028abfa7-4fbe-437c-8716-a90ba9f7eb8a</UUID>
+</custompropertyset>
+<custompropertyset name= "cGlx2General">
+<CompilesForSave>2</CompilesForSave>
+<CompilesForArchive>2</CompilesForArchive>
+</custompropertyset>
+<custompropertyset name= "cREVGeometryCache">
+<stackID>6003</stackID>
+</custompropertyset>
+<mainstack>HelloWorld</mainstack>
+</stack>

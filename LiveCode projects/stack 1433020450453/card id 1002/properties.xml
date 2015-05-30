@@ -1,0 +1,45 @@
+<card name="card id 1002" id="1002">
+<ink>srcCopy</ink>
+<mark>false</mark>
+<dontSearch>false</dontSearch>
+<threeD>true</threeD>
+<blendLevel>0</blendLevel>
+<cantDelete>false</cantDelete>
+<id>1002</id>
+<altId>0</altId>
+<name>card id 1002</name>
+<layer>1</layer>
+<borderWidth>2</borderWidth>
+<shadowOffset>4</shadowOffset>
+<showBorder>false</showBorder>
+<custompropertyset name= "uVersion">
+<ID>1002</ID>
+<UUID>b1623011-60df-4f75-b168-7665a63ffde2</UUID>
+</custompropertyset>
+<custompropertyset name= "cGlx2TimeStamp">
+<checksum>base64decode( "FKsbMhJWcU1D" )</checksum>
+</custompropertyset>
+<custompropertyset name= "cGLX2General">
+<cHscrollScript>0</cHscrollScript>
+<cHscrollHandlers>0</cHscrollHandlers>
+<cSelectedChunk>char 19 to 29</cSelectedChunk>
+<cHTMLScript>base64decode( "H4sI" )</cHTMLScript>
+<cHandlersListWidth>100</cHandlersListWidth>
+<cHtmlHandlers>base64decode( "H4sI" )</cHtmlHandlers>
+<cDirtyFlag>false</cDirtyFlag>
+<cFolders>all handlers</cFolders>
+<cHandlers>openCard</cHandlers>
+<cVscrollScript>0</cVscrollScript>
+<cVscrollHandlers>0</cVscrollHandlers>
+<cHilitedLine>2</cHilitedLine>
+</custompropertyset>
+<custompropertyset name= "cREVGeometryCacheIDs">
+<xml_num_1432849434331>1004</xml_num_1432849434331>
+<xml_num_1432945848659>6003</xml_num_1432945848659>
+<xml_num_1432858421106>6001</xml_num_1432858421106>
+<xml_num_1432858393656>6000</xml_num_1432858393656>
+</custompropertyset>
+<custompropertyset name= "cREVGeometrycache">
+<total>4</total>
+</custompropertyset>
+</card>
