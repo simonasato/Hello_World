@@ -4,6 +4,6 @@ on mouseUp
    answer "Hello World"
 end mouseUp
 
-on mouseEnter
+
    --put "Hello"
-end mouseEnter
+
