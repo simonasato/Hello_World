@@ -35,19 +35,19 @@
 <destroyStack>true</destroyStack>
 <minHeight>32</minHeight>
 <dynamicPaths>false</dynamicPaths>
-<custompropertyset name= "uRIP">
-<glx2VersionControl>1433020450453</glx2VersionControl>
-</custompropertyset>
-<custompropertyset name= "uVersion">
-<ID>6003</ID>
-<UUID>028abfa7-4fbe-437c-8716-a90ba9f7eb8a</UUID>
+<custompropertyset name= "cREVGeometryCache">
+<stackID>6003</stackID>
 </custompropertyset>
 <custompropertyset name= "cGlx2General">
 <CompilesForSave>2</CompilesForSave>
 <CompilesForArchive>2</CompilesForArchive>
 </custompropertyset>
-<custompropertyset name= "cREVGeometryCache">
-<stackID>6003</stackID>
+<custompropertyset name= "uVersion">
+<ID>6003</ID>
+<UUID>028abfa7-4fbe-437c-8716-a90ba9f7eb8a</UUID>
+</custompropertyset>
+<custompropertyset name= "uRIP">
+<glx2VersionControl>1433020450453</glx2VersionControl>
 </custompropertyset>
 <mainstack>HelloWorld</mainstack>
 </stack>

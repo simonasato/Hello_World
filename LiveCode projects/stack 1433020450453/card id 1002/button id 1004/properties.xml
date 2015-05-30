@@ -49,13 +49,6 @@
 <hiliteIcon>0</hiliteIcon>
 <layerMode>static</layerMode>
 <hoverIcon>0</hoverIcon>
-<custompropertyset name= "uVersion">
-<ID>1004</ID>
-<UUID>8e5e934c-f393-43c2-a1a8-9f6f1dc255d6</UUID>
-</custompropertyset>
-<custompropertyset name= "cGlx2TimeStamp">
-<checksum>base64decode( "Y/ttzv1z/OpgtC2HJR34Mg==" )</checksum>
-</custompropertyset>
 <custompropertyset name= "cGLX2General">
 <cHscrollScript>0</cHscrollScript>
 <cHscrollHandlers>0</cHscrollHandlers>
@@ -69,5 +62,12 @@
 <cVscrollScript>0</cVscrollScript>
 <cVscrollHandlers>0</cVscrollHandlers>
 <cHilitedLine>2</cHilitedLine>
+</custompropertyset>
+<custompropertyset name= "cGlx2TimeStamp">
+<checksum>base64decode( "Y/ttzv1z/OpgtC2HJR34Mg==" )</checksum>
+</custompropertyset>
+<custompropertyset name= "uVersion">
+<ID>1004</ID>
+<UUID>8e5e934c-f393-43c2-a1a8-9f6f1dc255d6</UUID>
 </custompropertyset>
 </button>

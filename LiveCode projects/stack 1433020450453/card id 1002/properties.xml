@@ -12,12 +12,14 @@
 <borderWidth>2</borderWidth>
 <shadowOffset>4</shadowOffset>
 <showBorder>false</showBorder>
-<custompropertyset name= "uVersion">
-<ID>1002</ID>
-<UUID>b1623011-60df-4f75-b168-7665a63ffde2</UUID>
+<custompropertyset name= "cREVGeometrycache">
+<total>4</total>
 </custompropertyset>
-<custompropertyset name= "cGlx2TimeStamp">
-<checksum>base64decode( "FKsbMhJWcU1D" )</checksum>
+<custompropertyset name= "cREVGeometryCacheIDs">
+<xml_num_1432849434331>1004</xml_num_1432849434331>
+<xml_num_1432945848659>6003</xml_num_1432945848659>
+<xml_num_1432858421106>6001</xml_num_1432858421106>
+<xml_num_1432858393656>6000</xml_num_1432858393656>
 </custompropertyset>
 <custompropertyset name= "cGLX2General">
 <cHscrollScript>0</cHscrollScript>
@@ -33,13 +35,11 @@
 <cVscrollHandlers>0</cVscrollHandlers>
 <cHilitedLine>2</cHilitedLine>
 </custompropertyset>
-<custompropertyset name= "cREVGeometryCacheIDs">
-<xml_num_1432849434331>1004</xml_num_1432849434331>
-<xml_num_1432945848659>6003</xml_num_1432945848659>
-<xml_num_1432858421106>6001</xml_num_1432858421106>
-<xml_num_1432858393656>6000</xml_num_1432858393656>
+<custompropertyset name= "cGlx2TimeStamp">
+<checksum>base64decode( "FKsbMhJWcU1D" )</checksum>
 </custompropertyset>
-<custompropertyset name= "cREVGeometrycache">
-<total>4</total>
+<custompropertyset name= "uVersion">
+<ID>1002</ID>
+<UUID>b1623011-60df-4f75-b168-7665a63ffde2</UUID>
 </custompropertyset>
 </card>
